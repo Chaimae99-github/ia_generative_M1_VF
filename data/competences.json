@@ -1,0 +1,45 @@
+{
+  "blocks": {
+    "Analyse de Données": [
+      "analyse de données",
+    "exploration de données",
+    "visualisation de données",
+    "analyse statistique",
+    "nettoyage des données",
+    "préparation des données",
+    "analyse exploratoire des données"
+    ],
+ 
+    "Machine Learning": [
+    "modèles de classification",
+    "modèles de régression",
+    "entraînement de modèles",
+    "pipeline d'entraînement machine learning",
+    "pipeline machine learning",
+    "déploiement de modèles",
+    "deep learning",
+    "réseaux neuronaux",
+    "modèles PyTorch",
+    "modèles scikit-learn",
+    "évaluation de modèles",
+    "optimisation des hyperparamètres",
+    "apprentissage supervisé",
+    "apprentissage non supervisé"
+],
+    "Traitement du Langage Naturel (NLP)": [
+      "prétraitement de texte",
+      "tokenisation",
+      "embeddings de mots",
+      "modèles transformers",
+      "analyse de similarité sémantique"
+    ],
+    "Data Engineering": [
+      "création de pipelines ETL",
+      "gestion d'entrepôts de données",
+      "bases de données SQL",
+      "automatisation des flux de données",
+      "traitement de données massives"
+    ]
+  }
+}
+

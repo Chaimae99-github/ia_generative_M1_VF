@@ -1,0 +1,9 @@
+{
+  "jobs": {
+    "Data Analyst": ["Analyse de Données", "Data Engineering"],
+    "Ingénieur Machine Learning": ["Machine Learning", "Data Engineering"],
+    "Data Scientist": ["Analyse de Données", "Machine Learning", "Traitement du Langage Naturel (NLP)"],
+    "Ingénieur NLP": ["Traitement du Langage Naturel (NLP)", "Machine Learning"],
+    "Data Engineer": ["Data Engineering"]
+  }
+}
